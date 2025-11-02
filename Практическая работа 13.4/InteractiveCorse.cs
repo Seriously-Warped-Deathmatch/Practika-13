@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
-    internal class InteractiveCorse
+    internal class InteractiveCorse : Corse
     {
         public int NumberOfExercises
         {
